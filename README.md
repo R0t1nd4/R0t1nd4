@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0t1nd4
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning Java Programming
+- 🌱 I’m currently learning Java Programming an C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
